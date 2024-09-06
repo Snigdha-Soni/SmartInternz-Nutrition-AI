@@ -14,3 +14,6 @@ meals.
 3. Fitness Integration: Sync with fitness trackers to integrate physical activity data into the
 nutritional analysis.
 4. Data Logging: Store and log user interactions and dietary data for future reference and analysis.
+
+
+# AI Nutritionist App Video Link - https://drive.google.com/file/d/1RXgX04xFDfTbDl-B2ypJGSBNGYqMLEoG/view?usp=sharing
